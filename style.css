@@ -201,6 +201,11 @@ html,body
     z-index:99;
 }
 
+#projects a{
+    text-decoration:none;
+    color:#000;
+}
+
 .card{
     width:370px;
     height:470px;
