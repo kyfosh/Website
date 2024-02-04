@@ -142,20 +142,20 @@ html,body
 }
 
 .up{
-    margin-left:calc(50vw - 510px);
-    margin-top:-273px;
+    margin-left:calc(50vw - 310px);
+    margin-top:-373px;
     font-size:3.5em;
 }
 
 .down{
-    margin-left:calc(50vw - 495px);
-    margin-top:-200px;
+    margin-left:calc(50vw - 295px);
+    margin-top:-300px;
     font-size:2em;
 }
 
 .after{
-    margin-left:calc(50vw - 495px);
-    margin-top:-160px;
+    margin-left:calc(50vw - 295px);
+    margin-top:-260px;
     font-size:2em;
 }
 
