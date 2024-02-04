@@ -143,19 +143,19 @@ html,body
 
 .up{
     margin-left:calc(50vw - 310px);
-    margin-top:-373px;
+    margin-top:-323px;
     font-size:3.5em;
 }
 
 .down{
     margin-left:calc(50vw - 295px);
-    margin-top:-300px;
+    margin-top:-250px;
     font-size:2em;
 }
 
 .after{
     margin-left:calc(50vw - 295px);
-    margin-top:-260px;
+    margin-top:-210px;
     font-size:2em;
 }
 
